@@ -1,5 +1,3 @@
 node_modules
-senhafullstacl club.txt
-anotaçoes da aula 0 setup.odt
-codigo das aulas.txt
+/src/generated/prisma
 .env
